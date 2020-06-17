@@ -3,11 +3,11 @@ This is the repo for the mobile Dev
 
 Fork this repo
 
-Clone this repo ( git clone https://github.com/hngi/Pending-Task-Group1)
+Clone this repo ( git clone https://github.com/hngi/Pending-Task-Mobile-Group1)
 
-open git bash for windows or terminal for mac (cd pending-task-Group1) you can achieve this by dragging the folder in the command line after cd OR right click the pending-task-group1 folder and open with git bash or terminal
+open git bash for windows or terminal for mac (cd Pending-Task-Mobile-Group1) you can achieve this by dragging the folder in the command line after cd OR right click the Pending-Task-Mobile-Group1 folder and open with git bash or terminal
 
-To add upstream so that whenever there is a change you can pull the latest changes. (Git remote add upstream https://github.com/hngi/Pending-Task-Group1), to pull changes (git pull upstream Pending-Task-Group1)
+To add upstream so that whenever there is a change you can pull the latest changes. (Git remote add upstream https://github.com/hngi/Pending-Task-Mobile-Group1), to pull changes (git pull upstream Pending-Task-Mobile-Group1)
 
 Commit your changes
 
